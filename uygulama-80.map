@@ -1,0 +1,44 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Fri Dec 07 20:13:53 2018
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x00005a
+.config_2007_UYGULAMA-80.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x00002c      
+                            0x002007    0x002007      
+            46 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                ANA_METOT   0x000001    program     static D:\mikroislemciler\2018GuzDonemi\80.uygulama\uygulama-80.asm
+                DEGER_YAZ   0x000020    program     static D:\mikroislemciler\2018GuzDonemi\80.uygulama\uygulama-80.asm
+                  GECIKME   0x000024    program     static D:\mikroislemciler\2018GuzDonemi\80.uygulama\uygulama-80.asm
+                  KONTROL   0x00001d    program     static D:\mikroislemciler\2018GuzDonemi\80.uygulama\uygulama-80.asm
+                  TEKRAR1   0x000026    program     static D:\mikroislemciler\2018GuzDonemi\80.uygulama\uygulama-80.asm
+                  TEKRAR2   0x000028    program     static D:\mikroislemciler\2018GuzDonemi\80.uygulama\uygulama-80.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                ANA_METOT   0x000001    program     static D:\mikroislemciler\2018GuzDonemi\80.uygulama\uygulama-80.asm
+                  KONTROL   0x00001d    program     static D:\mikroislemciler\2018GuzDonemi\80.uygulama\uygulama-80.asm
+                DEGER_YAZ   0x000020    program     static D:\mikroislemciler\2018GuzDonemi\80.uygulama\uygulama-80.asm
+                  GECIKME   0x000024    program     static D:\mikroislemciler\2018GuzDonemi\80.uygulama\uygulama-80.asm
+                  TEKRAR1   0x000026    program     static D:\mikroislemciler\2018GuzDonemi\80.uygulama\uygulama-80.asm
+                  TEKRAR2   0x000028    program     static D:\mikroislemciler\2018GuzDonemi\80.uygulama\uygulama-80.asm
+
+
